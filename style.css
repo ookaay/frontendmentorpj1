@@ -1,0 +1,35 @@
+body {
+    display: grid;
+    font-size: 15px;
+    font-family: "Outfit",sans-serif;
+    font-weight: 400 700;
+    background-color: hsl(212, 45%, 89%);
+    align-content: center;
+    justify-content: center;
+    height: 97vh;
+}
+#bc {
+    padding: 10px;
+    width: 250px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin: auto;
+
+}
+#imc {
+    width: 100%;
+}
+#img {
+    width: 100%;
+    border-radius: 10px;
+}
+#txc {
+    text-align: center;
+}
+#hd {
+    font-weight: 700;
+}
+#pr {
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+}

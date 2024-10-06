@@ -27,6 +27,7 @@ body {
     text-align: center;
 }
 #hd {
+    color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 #pr {
